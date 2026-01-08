@@ -106,9 +106,3 @@ http://localhost:8501
 - Ensure all dependencies are installed in the same Python environment.
 - The metadata files are automatically generated during training.
 - The project is structured for easy extension and deployment.
-
----
-
-## 📄 License
-
-This project is for educational and learning purposes.
